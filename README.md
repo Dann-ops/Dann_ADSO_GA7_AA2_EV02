@@ -17,9 +17,6 @@ Este es un proyecto de desarrollo web robusto creado para la evidencia **GA7_AA2
 
 ## 📋 Requisitos e Instalación
 1. Clonar el repositorio:
-   ```bash
-   git clone [https://github.com/Dann-ops/Gutierrez_ADSO_GA7_AA2_EV02.git](https://github.com/Dann-ops/Gutierrez_ADSO_GA7_AA2_EV02.git)
-
 
 Instalar dependencias:
 
